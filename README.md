@@ -30,6 +30,7 @@
 $ sudo apt install gparted 
 ````
 <img src = "img/Screenshot_2_1.png" width=100%>
+
 ````sh
 $ sudo apt-get install cryptsetup
 ````
